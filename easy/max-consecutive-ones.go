@@ -1,5 +1,5 @@
-// //https://leetcode.com/problems/max-consecutive-ones/
-// //Date 27.06.21
+//https://leetcode.com/problems/max-consecutive-ones/
+//Date 27.06.21
 package easy
 
 func findMaxConsecutiveOnes(nums []int) int {
